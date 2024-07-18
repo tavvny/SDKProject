@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CondencedGeek</string>
+    <string name="SalesIcon">Sales</string>
+    <string name="Contacts_tag">Контакты</string>
+    <string name="Us_tag">О нас</string>
+    <string name="Main_tag">Главная</string>
+    <string name="Name1">Condenced</string>
+    <string name="Name2">Geek</string>
+    <string name="Categories">Категории:</string>
+    <string name="CategoryItem">Кружок</string>
+    <string name="CategoryText">Готовые Сборки</string>
+    <string name="VDescription">GIGABYTE AORUS GeForce RTX 3050 ELITE обеспечивают оптимальную производительность в топовых играх благодаря возможностям Ampere — архитектуры NVIDIA RTX второго поколения.</string>
+    <string name="Vname">GIGABYTE AORUS GeForce RTX 3050</string>
+    <string name="Desc">Описание</string>
+    <string name="Name">Название</string>
+    <string name="pcname">САМЫЙ ЛУЧШИЙ ПК 2022</string>
+    <string name="cpdesc">Компьютер HYPERPC LUMEN — это синоним надежности, потому что при его производстве используются только проверенные и тщательно подобранные компоненты от известных мировых брендов. Мы годами выводили формулу идеального компьютера и по итогу смогли учесть все ключевые моменты. LUMEN – воплощение безупречного качества!</string>
+    <string name="trash">Купить!</string>
+</resources>

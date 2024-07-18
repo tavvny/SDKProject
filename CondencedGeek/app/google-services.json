@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187558555551",
+    "project_id": "condencedgeek-d0dd7",
+    "storage_bucket": "condencedgeek-d0dd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187558555551:android:23ea9c12ce2dec0557d7aa",
+        "android_client_info": {
+          "package_name": "com.example.condencedgeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187558555551-qp23l9s7kb7srlhme6c2ofa71v00colp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbs3GLxWjvzxMpo8PdpHIcjyFBNaaxOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187558555551-qp23l9s7kb7srlhme6c2ofa71v00colp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
